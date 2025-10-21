@@ -1,0 +1,48 @@
+body {
+  font-family: sans-serif;
+  background: #f4f4f4;
+  padding: 20px;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.summary p {
+  font-weight: bold;
+  margin: 5px 0;
+}
+
+form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+form input, form select, form button {
+  flex: 1 1 100%;
+  padding: 10px;
+}
+
+.filters {
+  margin-bottom: 10px;
+}
+
+#entry-list {
+  list-style: none;
+  padding: 0;
+}
+
+.entry-item {
+  display: flex;
+  justify-content: space-between;
+  background: #eee;
+  margin-bottom: 5px;
+  padding: 10px;
+  border-radius: 4px;
+}
