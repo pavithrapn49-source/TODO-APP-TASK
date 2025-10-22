@@ -23,7 +23,7 @@ A responsive web app to track income and expenses with full CRUD functionality a
 
 ## Installation
 
-Clone the repository: git clone https://github.com/pavithrapn49-source/todo-app.git
+Clone the repository: git clone https://github.com/pavithrapn49-source/TODO-APP-TASK/edit/main/README.md
 Navigate to the project directory: cd todo-app
 Open index.html in your web browser.
 Enjoy the project!
